@@ -30,9 +30,4 @@
     @apply p-4
   }
 
-/*  
-  button {
-    @apply bg-gradient-to-r from-[var(--primary-laranja)] to-[var(--primary-laranja)] py-3 px-7 rounded-3xl
-  }
-*/
 }

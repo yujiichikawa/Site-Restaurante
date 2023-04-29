@@ -46,7 +46,6 @@ const About = () => {
 
           <div className='grid sm:grid-cols-2 lg:grid-cols-4 gap-4'>
             <AboutCard img={B1} text='Descrição' />
-
             <AboutCard img={B2} text='Descrição' />
             <AboutCard img={B3} text='Descrição' />
             <AboutCard img={B4} text='Descrição' />
